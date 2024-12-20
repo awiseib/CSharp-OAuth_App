@@ -1,0 +1,8 @@
+# C# OAuth Implementation
+## Purpose
+This content was produced to implement additional modularity and utilize object-oriented programming for ease of access.
+
+## Requirements
+Built using C# .NET 8.0
+This library is predominantly maintained with the C# standard library.
+The NewtonSoft.Json library is a required third party library for this project.
